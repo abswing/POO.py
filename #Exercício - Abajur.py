@@ -30,7 +30,7 @@
 
 class Abajur:
     """
-    esss class estancia os atributos, lampada e intencidade
+    esss class estancia os atributos, lampada e intensidade
     """ 
     def __init__(self):
         self.__intensidade = 0
